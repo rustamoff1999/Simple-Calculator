@@ -1,6 +1,7 @@
 # Simple-Calculator
+<image src = "pngwave%20(2).png">
+  
 Simple-Calculator Console App
-
 ## Requirements
 * macOS
 * XCode 10
