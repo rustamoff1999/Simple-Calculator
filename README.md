@@ -1,5 +1,5 @@
 # Simple-Calculator
-<image src = "pngwave%20(2).png">
+<image src = "pngwave%20(2).png"><image src = "console_logo.png" width = "75" height = "58">
   
 Simple-Calculator Console App
 ## Requirements
