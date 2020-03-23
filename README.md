@@ -4,7 +4,7 @@
 Simple-Calculator Console App
 ## Requirements
 * macOS
-* XCode 10
+* Xcode 10
 * Swift 5
 ## About
 A simple calculator console application. Only 6 operations allowed(+  -  *  /  ^  root) and only 2 arguments.
